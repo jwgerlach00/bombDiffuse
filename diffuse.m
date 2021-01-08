@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 9/2/2020
-% glitter_GERLACH.m
+% diffuse.m
 %
 % Bomb defuse simulation with various wires to cut.
 
